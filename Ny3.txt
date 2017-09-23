@@ -1,0 +1,2 @@
+Hei 
+dette er en øvelse i bruk av commandoer og bruk av Bash og Git Hub
