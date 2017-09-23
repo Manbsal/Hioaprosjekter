@@ -1,2 +1,2 @@
 # Hioaprosjekter
-Gruppearbeid
+Gruppearbeid for Hioa prosjekter
